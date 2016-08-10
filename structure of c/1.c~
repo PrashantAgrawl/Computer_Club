@@ -1,0 +1,13 @@
+#include <stdio.h>
+// aal lines that start with # are processed by preprocessor
+//int main(int argc,char *argv[])
+// Why main() is important ?
+// 
+int main()
+
+{
+printf();
+return 0;
+}
+
+
