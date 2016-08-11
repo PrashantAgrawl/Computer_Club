@@ -1,0 +1,24 @@
+Computer Club 
+Date-10/08/16
+
+go through these links -
+
+1)For brief idea of compilation steps
+
+http://www.thegeekstuff.com/2011/10/c-program-to-an-executable/
+
+2)For understanding representation of datatypes in memory
+
+Read answer by Balajee Seshadri 
+https://www.quora.com/How-is-an-integer-value-stored-in-the-memory-in-Chttps://www.quora.com/How-is-an-integer-value-stored-in-the-memory-in-C
+
+If you still have doubts with floating point then we will discuss in next class 
+
+3)For 2's complement
+https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html 
+
+4)For conversion of decimal fractions to binary
+http://cs.furman.edu/digitaldomain/more/ch6/dec_frac_to_bin.htm
+
+Please go through buffer description in QOD question 1 blog.
+
