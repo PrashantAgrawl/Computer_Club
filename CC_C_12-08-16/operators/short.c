@@ -6,13 +6,20 @@ int main()
 {
 	char a='A';
 	
-	if(a=='A' || (a='Z'))
+	/*	
+		in || operator, if 1st expression is true then 2nd doesnt evaluates
+		
+		in && operator, if 1st expression is false then 2nd doesnt evaluates 
+	
+	*/
+	
+	if(a=='A' || (a='Z'))   	//a=='A' is true , so (a='Z') doesn't evaluates
 		printf("1\n");
 	
-	if(a=='Z' && (a='L') )
+	if(a=='Z' && (a='L') )		//a=='Z' is false , so (a='L') doesn't evaluates.
 		printf("2\n") ;
 	
-	if( (a=='Z') || (a='L') && (a=='A')  )
+	if( (a=='Z') || (a='L') && (a=='A')  ) //this expression is equvalent to (a=='Z') || ((a='L') && (a=='A'))
 		printf("3\n") ;
 		
 		

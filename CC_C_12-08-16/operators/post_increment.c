@@ -6,6 +6,6 @@ Date-12/08/16
 int main()
 {
 	int a=1;
-	int x=++a*a++;
+	int x=++a*a++;    //Undefined behaviour
 	printf("a=%d x=%d\n",a,x);
 }

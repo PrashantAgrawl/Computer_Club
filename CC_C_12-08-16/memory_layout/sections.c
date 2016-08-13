@@ -3,7 +3,7 @@ Date-12/08/16
 */
 #include<stdio.h>
 
-int a = 5; // data
+int a = 5; // data segment
 int b = a;
 
 /*

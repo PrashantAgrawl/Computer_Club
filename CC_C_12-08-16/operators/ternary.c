@@ -1,5 +1,7 @@
 /* Computer Club C Classes
 Date-12/08/16
+
+Try yourself
 */
 #include<stdio.h>
 int main()

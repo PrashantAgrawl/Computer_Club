@@ -11,6 +11,6 @@ int main()
 		printf("%c",c+i);
 		i++;
 	}
-	while(1);
+	while(1);		//due to this loop ,program never terminates successfully .
 	return 0;
 }
